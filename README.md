@@ -26,7 +26,13 @@ Non-resolved problems like this: https://github.com/prettier/prettier-vscode/iss
 
 #### Eslint Config Examples
 - https://github.com/standard/eslint-config-standard
+> - https://github.com/standard/eslint-plugin-standard
+> - https://github.com/xjamundx/eslint-plugin-promise
+> - https://github.com/benmosher/eslint-plugin-import
+> - https://github.com/mysticatea/eslint-plugin-node
 - https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base
+- https://github.com/airbnb/javascript/blob/master/packages/eslint-config-airbnb-base/rules/imports.js - airbnb uses ‘_elint-plugin-import_’
+>  - https://github.com/benmosher/eslint-plugin-import
 
 https://eslint.org/docs/user-guide/migrating-from-jscs#converting-presets - ESLint Shareable Config
 
