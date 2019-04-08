@@ -43,8 +43,8 @@ https://eslint.org/docs/user-guide/migrating-from-jscs#converting-presets - ESLi
 | `google` | [eslint-config-google](https://github.com/google/eslint-config-google) |
 | `grunt` | [eslint-config-grunt](https://github.com/markelog/eslint-config-grunt) |
 | `idiomatic` | [eslint-config-idiomatic](https://github.com/jamespamplin/eslint-config-idiomatic) |
-| `jquery` | [eslint-config-idiomatic](https://github.com/jamespamplin/eslint-config-idiomatic) |
-| `mdcs` | [eslint-config-idiomatic](https://github.com/jamespamplin/eslint-config-idiomatic) |
+| `jquery` | [eslint-config-jquery](https://github.com/jquery/eslint-config-jquery) |
+| `mdcs` | [eslint-config-mdcs](https://github.com/zz85/mrdoobapproves) |
 | `node-style-guide` | [eslint-config-node-style-guide](https://github.com/pdehaan/eslint-config-node-style-guide) |
 | `wikimedia` | [eslint-config-wikimedia](https://github.com/wikimedia/eslint-config-wikimedia) |
 | `wordpress` | [eslint-config-wordpress](https://github.com/WordPress-Coding-Standards/eslint-config-wordpress) |
@@ -53,9 +53,9 @@ https://eslint.org/docs/user-guide/migrating-from-jscs#converting-presets - ESLi
 > - https://github.com/github/eslint-plugin-github
 > - https://github.com/Netflix/eslint-config-netflix
 > - https://github.com/htmlacademy/eslint-config-htmlacademy
->> - https://github.com/marcelmokos/eslint-config-with-prettier
->> - https://github.com/keithamus/eslint-config-strict
->> - https://github.com/npetruzzelli/eslint-config-prettier-standard
+> > - https://github.com/marcelmokos/eslint-config-with-prettier
+> > - https://github.com/keithamus/eslint-config-strict
+> > - https://github.com/npetruzzelli/eslint-config-prettier-standard
 
 #### Eslint "overrides":"extends" Workaround
 - https://eslint.org/docs/user-guide/configuring#how-it-works - Eslint `“overrides”`
